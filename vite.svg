@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#7c3aed" />
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#gradient)" stroke="#1e40af" stroke-width="2"/>
+  <text x="50" y="68" font-family="'Segoe UI', Arial, sans-serif"
+        font-size="48" font-weight="600"
+        fill="white" text-anchor="middle"
+        letter-spacing="2">
+    HG
+  </text>
+</svg>
