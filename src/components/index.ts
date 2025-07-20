@@ -1,0 +1,11 @@
+export { default as Header } from 'src/components/Header';
+export { default as Profile } from 'src/components/Profile';
+export { default as Experience } from 'src/components/Experience';
+export { default as Projects } from 'src/components/Projects';
+export { default as Skills } from 'src/components/Skills';
+export { default as Education } from 'src/components/Education';
+export { default as Certifications } from 'src/components/Certifications';
+export { default as LanguageToggle } from 'src/components/LanguageToggle';
+export { default as Section } from 'src/components/Section';
+export { default as PersonalInformation } from 'src/components/PersonalInformation';
+export { default as ThemeToggle } from 'src/components/ThemeToggle';
